@@ -25,3 +25,6 @@ docker run -it --rm \
     psql -h some-postgres -U postgres -W
 ```
 
+## Client Options
+* [DBeaver](https://dbeaver.io/)
+* [TablePlus](https://tableplus.com/)
